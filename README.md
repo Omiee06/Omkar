@@ -23,7 +23,7 @@
 11. Enter a password.
 12. Confirm password.
 13. Click ** Next **.
-![image alt](
+![image alt](https://github.com/Omiee06/Omkar/blob/f508c75f5484ac90ff66b1fc6d84258c08c23fa8/password.png)
 ***
 14. Scan the QR code from your mobile device.
 ![image alt](
